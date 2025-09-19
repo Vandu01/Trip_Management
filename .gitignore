@@ -1,0 +1,9 @@
+# Ignore PEM files (private keys)
+*.pem
+
+# Ignore node_modules
+node_modules/
+
+# Ignore logs
+*.log
+.env
